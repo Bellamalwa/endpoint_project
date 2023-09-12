@@ -1,0 +1,1 @@
+web gunicorn endpoint_project.wsgi:application --log-file -
